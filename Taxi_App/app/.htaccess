@@ -1,0 +1,192 @@
+FileETag None
+# END Turn ETags Off
+
+Options +FollowSymlinks
+Options -Indexes
+DirectoryIndex index.php
+RewriteEngine on
+RewriteCond %{SERVER_PORT} 80 
+RewriteCond %{HTTP_HOST} !^www\.
+
+#RewriteCond %{HTTP_HOST} ^api.savemom\.in [NC]
+
+#RewriteRule ^(.*)$ https://geomeoinformatics.com/namkaval/api/$1 [R,L]
+
+#RewriteCond %{HTTP_HOST} ^http://jiovio.com\.com [NC]
+
+#RewriteCond %{HTTP_HOST} ^https://droptaximadurai.in/ [NC]
+
+#RewriteRule ^(.*)$ https://droptaximadurai.in/appadmin/api/$1 [R,L]
+
+
+RewriteRule ^trip_cancel driver/canceltrip.php [L,QSA]
+
+RewriteRule ^trip_cancel driver/canceltrip.php [L,QSA]
+
+RewriteRule ^checktrip driver/checktrip.php [L,QSA]
+
+RewriteRule ^userexist forms/userexist.php [L,QSA]
+
+RewriteRule ^getbooking_details admin/getbooking_details.php [L,QSA]
+
+RewriteRule ^getdriver_details admin/getdriver_details.php [L,QSA]
+
+RewriteRule ^driver_details forms/getdriver_details.php [L,QSA]
+
+RewriteRule ^delete_booking forms/delete_booking.php [L,QSA]
+
+RewriteRule ^trip_details driver/trip_details.php [L,QSA]
+
+RewriteRule ^booking_details forms/booking_details.php [L,QSA]
+
+RewriteRule ^endtrip driver/endtrip.php [L,QSA]
+
+RewriteRule ^wallet driver/wallet.php [L,QSA]
+
+RewriteRule ^lastbooking driver/lastbooking.php [L,QSA]
+
+RewriteRule ^booking forms/booking.php [L,QSA]
+
+RewriteRule ^transaction driver/transaction.php [L,QSA]
+
+RewriteRule ^notification_list driver/notification_list.php [L,QSA]
+
+RewriteRule ^closing_details forms/closing_details.php [L,QSA]
+
+RewriteRule ^driverquote_details admin/driverquote_details.php [L,QSA]
+
+RewriteRule ^request_to_acceptance admin/assign_driver_to_customer.php [L,QSA]
+
+RewriteRule ^getcustomer_details driver/getcustomer_details.php [L,QSA]
+
+RewriteRule ^gettoken forms/gettoken.php [L,QSA]
+
+RewriteRule ^carslist common/cars.php [L,QSA]
+
+RewriteRule ^km common/km.php [L,QSA]
+
+RewriteRule ^driver_status driver/driver_status.php [L,QSA]
+
+RewriteRule ^cus_status forms/cus_status.php [L,QSA]
+
+RewriteRule ^payment forms/booking_status.php [L,QSA]
+
+RewriteRule ^packages common/packages.php [L,QSA]
+
+RewriteRule ^signin forms/signin.php [L,QSA]
+
+RewriteRule ^percentage_amount common/percentage_amount.php [L,QSA]
+
+RewriteRule ^register forms/register.php [L,QSA]
+
+RewriteRule ^verifyotp forms/verifyotp.php [L,QSA]
+
+RewriteRule ^webkmcalculation common/webkmcalculation.php [L,QSA]
+
+RewriteRule ^timesettings common/timesettings.php [L,QSA]
+
+RewriteRule ^banner forms/banner.php [L,QSA]
+
+RewriteRule ^car_details forms/car_details.php [L,QSA]
+
+RewriteRule ^customer_request_for_booking admin/customer_request_for_booking.php [L,QSA]
+
+
+RewriteRule ^recharge_details driver/recharge_details.php [L,QSA]
+
+RewriteRule ^totaltripcount driver/totaltripcount.php [L,QSA]
+
+RewriteRule ^assign_driver admin/assign_driver.php [L,QSA]
+
+RewriteRule ^customer_booking_details admin/customer_booking_details.php [L,QSA]
+
+RewriteRule ^bitting_history admin/bitting_history.php [L,QSA]
+
+RewriteRule ^quote_price driver/quote_price.php [L,QSA]
+
+RewriteRule ^pending_trip_driver_details admin/pending_trip_driver_details.php [L,QSA]
+
+RewriteRule ^accept_booking driver/accept_booking.php [L,QSA]
+
+RewriteRule ^driver_to_customer admin/driver_to_customer.php [L,QSA]
+
+RewriteRule ^ride_details driver/ride_details.php [L,QSA]
+
+RewriteRule ^quote_details admin/quote_details.php [L,QSA]
+
+RewriteRule ^adminlogin admin/signin.php [L,QSA]
+
+RewriteRule ^driver_quotes admin/driver_quotes.php [L,QSA]
+
+RewriteRule ^driverlogin driver/signin.php [L,QSA]
+
+RewriteRule ^confirm admin/confirm.php [L,QSA]
+
+RewriteRule ^today_trips admin/today_trips.php [L,QSA]
+
+RewriteRule ^riding admin/riding.php [L,QSA]
+
+RewriteRule ^drivers admin/drivers.php [L,QSA]
+
+RewriteRule ^driver_new_enquiry admin/driver_new_enquiry.php [L,QSA]
+
+RewriteRule ^customers admin/customers.php [L,QSA]
+
+RewriteRule ^customer_bookings admin/customer_bookings.php [L,QSA]
+
+RewriteRule ^pending_trips admin/pending_trips.php [L,QSA]
+
+RewriteRule ^driver_pending_trips driver/pending_trips.php [L,QSA]
+
+RewriteRule ^pending admin/pending.php [L,QSA]
+
+RewriteRule ^trips_confirmed admin/confirmed_trips.php [L,QSA]
+
+RewriteRule ^driverdashboard driver/dashboard.php [L,QSA]
+
+
+RewriteRule ^accepted_booking driver/accepted_booking.php [L,QSA]
+
+RewriteRule ^cancelled_booking driver/cancelled_booking.php [L,QSA]
+
+RewriteRule ^requested_booking driver/requested_booking.php [L,QSA]
+
+RewriteRule ^getkm common/getkm.php [L,QSA]
+
+RewriteRule ^kmprice common/getkmprice.php [L,QSA]
+
+RewriteRule ^change_booking_status driver/confirm_booking.php [L,QSA]
+
+RewriteRule ^onprocesstrip forms/onprocesstrip.php [L,QSA]
+
+RewriteRule ^completedtrip forms/completedtrip.php [L,QSA]
+
+RewriteRule ^editprofile forms/editprofile.php [L,QSA]
+
+RewriteRule ^myrides forms/myrides.php [L,QSA]
+
+RewriteRule ^faq common/faq.php [L,QSA]
+
+RewriteRule ^settings common/settings.php [L,QSA]
+
+RewriteRule ^customer_notification forms/customer_notification.php [L,QSA]
+
+RewriteRule ^admindashboard admin/admindashboard.php [L,QSA]
+
+RewriteRule ^quote_notification_details admin/notification_details.php [L,QSA]
+
+RewriteRule ^new_enquiry driver/new_enquiry.php [L,QSA]
+
+RewriteRule ^engaged_enquiry driver/engaged_enquiry.php [L,QSA]
+
+RewriteRule ^pickup driver/pickup.php [L,QSA]
+
+RewriteRule ^total_rides driver/total_rides.php [L,QSA]
+
+RewriteRule ^total_ride_details driver/total_ride_details.php [L,QSA]
+
+RewriteRule ^getprofile forms/getprofile.php [L,QSA]
+
+RewriteCond %{THE_REQUEST} !^POST
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d

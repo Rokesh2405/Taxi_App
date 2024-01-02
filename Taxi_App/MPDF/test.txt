@@ -1,0 +1,174 @@
+<div style="padding-top:30px; padding-left:10px; padding-right:10px;"><table style="width:100%; font-family:"Lato", sans-serif; line-height:18px;" >
+                <tr>
+                <td align="center"><h2>Sri Madurai Meenakshi<br>
+Tours and Travels</h2></td>
+                </tr>
+                <tr>
+                <td align="center" style="font-size:18px;">4B,West Marrat Street, <br>Madurai -625001</td>
+                </tr>
+
+                </table>
+                <table width="100%">
+                <tr>
+                <td width="70%" valign="top"><img src="https://droptaximadurai.in/billingportal/images/logo.png" width="250"></td>
+                <td width="30%" align="right">
+                <table width="100%">
+                <tr>
+                <td><strong>Mob:+918667459121<strong></td>
+                </tr>
+                <tr>
+                <td><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;+918681894167<strong></td>
+                </tr>
+                </table>
+                </td>
+                </tr></table>
+                <table style="width:100%; border-top:1px dashed #000; font-size:15px;" >
+                
+
+                <tr>
+
+                    <td width="40%" align="left" valign="top">
+                    <table width="100%" cellpadding="5" cellspacing="0">
+                     <tr>
+                    <td><strong><h3> Bill No</h3></strong></td>
+                    <td> : </td> 
+                    <td>10/2023/12</td>
+                    </tr>
+                    <tr><td colspan="3">&nbsp; </td></tr>
+                    <tr>
+                    <td><strong>Customer Name</strong></td>
+                    <td> : </td> 
+                    <td>vanitha</td>
+                    </tr>
+                      <tr>
+                    <td><strong>Customer Number</strong></td>
+                    <td> : </td> 
+                    <td>7904190292</td>
+                    </tr>
+                    </table>
+                    </td>
+<td width="35%" align="left" valign=top""><table width="100%" cellpadding="5" cellspacing="0">
+ <tr>
+                    <td colspan="3" align="center"><strong><h2>INVOICE</h2></strong></td>
+                    </tr>
+                    <tr><td colspan="3">&nbsp; </td></tr>
+                    <tr>
+                    <td valign="top"><strong>From</strong></td>
+                    <td valign="top"> : </td> 
+                    <td>Madurai, Tamil Nadu, India</td>
+                    </tr>
+                      <tr>
+                    <td valign="top"><strong>To</strong></td>
+                    <td  valign="top"> : </td> 
+                    <td>Tiruchirappalli, Tamil Nadu, India</td>
+                    </tr>
+                    </table>
+                    </td>
+                    <td width="30%" align="right"><table width="100%" cellpadding="5" cellspacing="0">
+                    <tr>
+                    <td><strong>Pickup Date</strong></td>
+                    <td> : </td> 
+                    <td>26-08-2023</td>
+                    </tr>
+                      <tr>
+                    <td><strong>Pickup Time</strong></td>
+                    <td> : </td> 
+                    <td>07:56 pm</td>
+                    </tr>
+                    <tr>
+                    <td><strong>Drop Date</strong></td>
+                    <td> : </td> 
+                    <td>27-08-2023</td>
+                    </tr>
+                      <tr>
+                    <td><strong>Drop Time</strong></td>
+                    <td> : </td> 
+                    <td>12:36 pm</td>
+                    </tr>
+                    </table>
+                    </td>
+                    </tr>
+			
+             </table> 
+             <table width="100%" style="background-color:#d7d8e5;" cellpadding="10">
+             <tr>
+             <td><strong>Description</strong></td>
+             <td  align="right"><strong>Amount</strong></td>
+             </tr>
+             </table>
+               <table width="100%"  cellspacing="0" cellpadding="5">
+             <tr>
+             <td><strong>Day Rent</strong><br><br>
+             Vehicle Rent.<br><br>
+            Per Kilometer Charge &nbsp;Rs.18x400km
+             </td>
+             <td align="right" valign="bottom"><strong>7,200.00</strong></td>
+             </tr>
+             </table>
+              <table width="100%"  cellspacing="0" cellpadding="5">
+             <tr>
+             <td>Driver Allowance&nbsp;&nbsp;Rs.400.00x1</td>
+             <td align="right" valign="bottom"><strong>400.00</strong></td>
+             </tr>
+             </table><table width="30%"  cellspacing="0" cellpadding="5">
+             <tr>
+             <td colspan="3"><strong>Travel Details</strong></td>
+             </tr>
+             <tr>
+             <td>Starting KM</td>
+             <td> = </td>
+             <td  align="right">1000</td>
+             </tr>
+             <tr>
+             <td>Closing KM</td>
+             <td> = </td>
+             <td  align="right">1400</td>
+             </tr>
+             <tr>
+             <td>Total KM</td>
+             <td> = </td>
+             <td align="right">400</td>
+             </tr>
+            
+
+             </table>
+              <table width="100%" style="background-color:#d7d8e5;" cellpadding="15">
+             <tr>
+             <td><strong>Total Amount</strong></td>
+             <td  align="right"><strong>7,600.00</strong></td>
+             </tr>
+             </table>
+             <br>
+             <table width="100%" style="background-color:#d7d8e5;" cellpadding="10">
+             <tr>
+             <td align="center"><strong>Driver and Vehicle Details</strong></td>
+             </tr>
+             </table>
+             <br>
+             <table width="100%">
+             <tr>
+             <td width="60%">
+             <table width="100%" cellspacing="0" cellpadding="5">
+             <tr>
+             <td><strong>Driver Name</strong></td>
+             <td>:</td>
+             <td>raja</td>
+             </tr>
+              <tr>
+             <td><strong>Driver Number</strong></td>
+             <td>:</td>
+             <td>486</td>
+             </tr>
+              <tr>
+             <td><strong>Vehicle Type</strong></td>
+             <td>:</td>
+             <td>inin</td>
+             </tr>
+              <tr>
+             <td><strong>Vehicle Number</strong></td>
+             <td>:</td>
+             <td>ijni</td>
+             </tr>
+             </table></td></tr>
+             </table><p style="font-weight:bold; text-align:center;">This is computer generated invoice no signature required.</p></div>
+             
